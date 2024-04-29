@@ -1471,11 +1471,9 @@
 
   .iphone-pro-max .text-wrapper-10 {
     position: absolute;
-    top: 51px;
-    left: 111px;
-    font-family: "Poppins-Light", Helvetica;
+    font-family: "Poppins-Light", sans-serif;
     font-weight: 300;
-    color: #606060;
+    color: #ffffff;
     font-size: 5.5px;
     letter-spacing: 0;
     line-height: normal;
@@ -1540,9 +1538,9 @@
 
   .iphone-pro-max .naviigation {
     display: flex;
-    width: 414px;
+    width: 382px;
     align-items: center;
-    gap: 117.64px;
+    gap: 96.64px;
     position: absolute;
     top: 1853px;
     left: 24px;
@@ -1555,16 +1553,17 @@
   }
 
   .iphone-pro-max .logo-3 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
     position: relative;
-    width: 72px;
+    width: 92px;
     height: 21px;
   }
 
   .iphone-pro-max .MENTA-lcare-2 {
     position: absolute;
-    top: 5px;
-    left: 27px;
-    font-family: "Crimson Text-Bold", Helvetica;
+    font-family: "Crimson Text", Helvetica;
     font-weight: 400;
     color: #000000;
     font-size: 7.4px;
@@ -1583,7 +1582,7 @@
   .iphone-pro-max .pages {
     display: inline-flex;
     align-items: flex-start;
-    gap: 28.23px;
+    gap: 24.23px;
     position: relative;
     flex: 0 0 auto;
   }
